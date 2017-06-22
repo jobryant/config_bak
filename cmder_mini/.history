@@ -1,0 +1,1281 @@
+bash
+c:
+e:
+dir
+ls
+dir
+cd ..
+cd..
+ls
+简体
+简体中
+简体中
+cd ..
+cd..
+ls
+ls
+cd ..
+cd..
+bash
+bash
+ls
+bash
+简体
+简体中
+简体中
+cd ..
+cd..
+ls
+ls
+cd ..
+bash
+bash
+bash
+e:
+cd Git\
+cd gen3DModel\
+cd app\
+node --ver
+node --version
+nodist -l
+nodist 7.2.1
+ls
+nodist
+nodist 6.10.0
+node runGenerator.js 
+cd..
+yarn
+cd..
+e:
+cd Git\gen3DModel\
+yarn
+cd app\
+node runGenerator.js 
+exit
+ls
+ls
+cd ..
+bash
+bash
+bash
+e:
+cd app\
+node --ver
+node --version
+nodist -l
+nodist 7.2.1
+ls
+nodist
+nodist 6.10.0
+node runGenerator.js 
+cd..
+yarn
+cd Git\gen3DModel\
+yarn
+cd app\
+node runGenerator.js 
+e:
+cd Git\
+node app\runGenerator.js 
+cd。。
+cd..
+npm run-script generate-room
+cd gen3DModel\
+npm run-script generate-inner
+git add -A
+git status
+git commit -m "add cli mode"
+node .\app\runGenerator.js
+<<<<<<<<<<<<<<<<<运行参数<<<<<<<<<<<<<<<<<exit
+exit
+npm run-script generate-inner
+git commit -m "add cli mode"
+node .\app\runGenerator.js
+<<<<<<<<<<<<<<<<<运行参数<<<<<<<<<<<<<<<<<exit
+exit
+e:
+cd Git\
+ls
+cd gen3DModel\
+git add app\meshEngine.js 
+git commit -m "do not cope with object with SHAPE empty"
+git add -A
+git commit -m "add config file"
+git status
+git push
+node .\app\runGenerator.js
+<<<<<<<<<<<<<<<<<运行参数<<<<<<<<<<<<<<<<<exit
+exit
+e:
+cd Git\sungent-frontend\
+git status
+git cd..
+cd ..
+cd gen3DModel\
+npm run-script generate-inner
+ls
+node app\runGenerator.js -r
+node app\runGenerator.js -r
+e:
+cd Git\
+cd gen3DModel\
+ssh-keygen -t rsa -C "jobryant@163.com"
+ssh -T git@github.com
+~
+~\ssh
+git push
+npm run-script generate-all
+e:
+cd Git\gen3DModel\
+git status
+git add -A
+git commit -m "fix typo of generateWalls"
+git push
+e;
+e:
+ cd Git\mapbox-gl-js\
+ls
+git status
+git branch
+ cd Git\mapbox-gl-js\
+git branch
+e:
+cd Git\sungent-frontend\
+ls
+gitstatus
+git add -A
+git commit -m "update all service to python version."
+git push
+git status
+exit
+git branch
+ls
+gitstatus
+git add -A
+git commit -m "update all service to python version."
+exit
+e:
+cd Git\sungent-frontend\
+git add src\imgs\pic\JW20.jpg 
+git add src\imgs\pic\JW21.jpg 
+
+git add src\imgs\pic\LL21.jpg 
+git add src/imgs/pic_thumb/JW20_thumb.jpg
+git add src/imgs/pic_thumb/LL21_thumb.jpg
+git commit -m "update some pictures"
+git add src/js/app/threeModel/floorList.js
+git commit -m "fixbug: clicking failed when btn's value is 'B1' in floor list."
+git push
+git status
+d:
+e:
+cd Git\gen3DModel\
+nodist
+e:
+cd Git\gen3DModel\
+nodist
+bash
+tcping
+tcping 192.168.110.23:8040
+tcping 192.168.110.23 8040
+ 
+tcping 192.168.110.23:8588
+tcping 192.168.110.23 8588
+nodist
+e:
+cd Git\gen3DModel\
+nodist
+bash
+tcping
+tcping 192.168.110.23:8040
+tcping 192.168.110.23 8040
+ 
+tcping 192.168.110.23:8588
+tcping 192.168.110.23 8588
+d:
+cd ..
+cd..
+cd Document\
+cd Geone\Project\
+cd Estate3D\
+git init
+ls
+git add -A
+git status
+git commit -m "first committing for Estate3D"
+exit
+tcping 192.168.110.23:8588
+tcping 192.168.110.23 8588
+nodist
+nodist
+bash
+tcping
+tcping 192.168.110.23:8040
+tcping 192.168.110.23 8040
+ 
+tcping 192.168.110.23:8588
+tcping 192.168.110.23 8588
+cd ..
+git init
+git commit -m "first committing for Estate3D"
+exit
+cd..cd
+cd.
+d:
+cd..
+cd Document\
+cd Geone\Project\
+cd Estate3D\
+git remote
+git remote show
+git remote add git@github.com:geoneapp/estate3d_demo.git
+git remote add origin git@github.com:geoneapp/estate3d_demo.git
+git remote -v
+git push -u origin master
+git push
+e:
+cd Git\gen3DModel\
+git add -A
+git status
+git commit -m "update: change to generate JsonFormat3"
+ls
+tcping 192.168.110.23 8588
+git init
+git commit -m "first committing for Estate3D"
+cd..cd
+cd.
+cd Document\
+cd Geone\Project\
+cd Estate3D\
+git remote
+git remote show
+git remote add git@github.com:geoneapp/estate3d_demo.git
+git remote add origin git@github.com:geoneapp/estate3d_demo.git
+git remote -v
+git push -u origin master
+cd Git\gen3DModel\
+git commit -m "update: change to generate JsonFormat3"
+cd ..
+git clone git@github.com:eden57/pysungent.git
+python --version
+conda env list
+conda create -n flaskapp python=3* flask
+activate flaskapp
+pip
+pip install
+cd sungent-frontend\
+d:
+cd Document\Geone\Project\Estate3D\
+git status
+git add -A
+git commit -m "modify to be fit for estate3d"
+git push
+e:
+cd gi
+cd..
+cd Git\
+cd pysungent\
+ls
+pip install -r requirements.txt 
+exit
+git push
+cd gi
+cd..
+exit
+activate flaskapp
+e:
+cd Git\
+git clone git@192.168.84.112:limuxian/pysungent.git
+git clone git@192.168.84.112:limuxian/3D_DEMO.git
+cd pysungent\
+ls
+pip install -r requirements.txt 
+cd ..
+cd 3D_DEMO\
+git branch stcat
+git branch
+git checkout stcat
+git status
+git add -A
+git commit -m "add:getTextNotes; modify:getFloorRooms"
+git push -u origin stcat:stcat
+git remote -v
+git remote show
+git remote -a
+git branch -a
+cd..cd
+cd.
+cd Document\
+cd Geone\Project\
+cd Estate3D\
+git remote
+git remote show
+git remote add git@github.com:geoneapp/estate3d_demo.git
+git remote add origin git@github.com:geoneapp/estate3d_demo.git
+git remote -v
+git push -u origin master
+cd Git\gen3DModel\
+git commit -m "update: change to generate JsonFormat3"
+cd ..
+git clone git@github.com:eden57/pysungent.git
+python --version
+conda env list
+conda create -n flaskapp python=3* flask
+activate flaskapp
+pip
+pip install
+cd sungent-frontend\
+git status
+git commit -m "modify to be fit for estate3d"
+git push
+e:
+cd gi
+cd..
+cd Git\
+cd pysungent\
+ls
+pip install -r requirements.txt 
+exit
+cd gi
+exit
+activate flaskapp
+cd Git\
+git clone git@192.168.84.112:limuxian/pysungent.git
+git clone git@192.168.84.112:limuxian/3D_DEMO.git
+cd pysungent\
+ls
+pip install -r requirements.txt 
+git branch stcat
+git branch
+git checkout stcat
+git commit -m "add:getTextNotes; modify:getFloorRooms"
+git push -u origin stcat:stcat
+git remote -v
+git remote show
+git remote -a
+git branch -a
+cd Git\3D_DEMO\
+git commit "add: getBoundaryLine"
+git commit -m "add: getBoundaryLine"
+才~
+cd
+git commit -m "modify: change service url"
+e:
+~
+cd ~
+cd 3D_DEMO\
+git commit -m "add: updateParam"
+d;
+d:
+cd ..
+cd..
+cd Document\Geone\Project\Estate3D\
+git commit -m "add: controlling version by url"
+e;
+ git add -A
+git commit -m "modify: popbox"
+git commit -m "modify: change popbox fields"
+git commit -m "modify: change some ajax into async "
+scp
+scp D:\Document\Geone\Project\Estate3D\src dingyh@des:/-var/www/estate3d
+scp D:\Document\Geone\Project\Estate3D\src dingyh@192.168.81.110:/-var/www/estate3d
+scp D:\Document\Geone\Project\Estate3D\src\ dingyh@192.168.81.110:/-var/www/estate3d/
+scp -r D:\Document\Geone\Project\Estate3D\src\ dingyh@192.168.81.110:/-var/www/estate3d/
+
+scp -r D:\Document\Geone\Project\Estate3D\src\ dingyh@192.168.81.110:~/var/www/estate3d/
+git status
+git add -a
+git add -A
+git commit -m "remove: service useless"
+git push
+./runScp
+./runScp.sh
+good.sh
+scp -r D:\Document\Geone\Project\Estate3D\src\ dingyh@192.168.81.110:/var/www/estate3d/
+goodluck.sh
+spawn
+expect
+runScp.sh
+git pull
+expect
+runScp.sh
+d:
+cd ..
+cd..
+cd Document\Geone\Project\Estate3D\
+git pull
+git status
+conda env list
+conda create -n pbfpy python=3*
+activate pbfpy
+pip install pbjson
+pip install simplejson
+pip install google.protobuf.descriptor
+pip install protobuf
+exit
+pip install google.protobuf.descriptor
+pip install protobuf
+exit
+d:
+cd ..
+cd..
+cd Document\Geone\Project\Estate3D\
+git pull
+git status
+git add -A
+git commit -m "modify: chagne getinitparam into json"
+git push
+activate pbfpy
+pip install unicode
+pip install unicode
+conda remove -n pbfpy --all
+conda create -n pbfpy python=27
+conda create -n pbfpy python=2*
+activate pbfpy
+pip install protobuf
+pip install simplejson
+conda create -n datapy python=3x 
+conda create -n datapy python=python3x 
+conda create -n datapy python=python3* 
+conda create -n datapy python=3* 
+activate datapy
+pip pandora
+pip install pandora
+conda remove -n datapy pandora
+conda remove --name datapy pandora
+pip remove pandora
+pip uninstall pandora
+conda install -n datapy pandas
+conda remove -n datapy pandora
+conda remove --name datapy pandora
+pip remove pandora
+pip uninstall pandora
+conda install -n datapy pandas
+e:
+cd Git\mapbox-gl-js\
+ls
+git add -!
+git add -A
+git commit -m "add: add comment TODO into transform.js in which codes are supposed to modify for local coord"
+npm install -g browserify
+npm run-script build-dev
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js && tap --no-coverage test/build/dev.test.js
+git status
+activate datapy
+pip pandora
+pip install pandora
+conda remove -n datapy pandora
+conda remove --name datapy pandora
+pip remove pandora
+pip uninstall pandora
+conda install -n datapy pandas
+conda remove -n datapy pandora
+conda remove --name datapy pandora
+pip remove pandora
+pip uninstall pandora
+conda install -n datapy pandas
+ls
+git add -!
+git commit -m "add: add comment TODO into transform.js in which codes are supposed to modify for local coord"
+npm install -g browserify
+e:
+cd Git\mapbox-gl-js\
+git log
+git reset --hard 61e97937c53e51
+npm -v
+npm run-script build-dev
+git add -A
+git commit -m "modify lng_lat.js lng_lat_bounds.js transform.js"
+git add js\ui\camera.js 
+git commit -m "modify camera.js for local coord"
+git add js\ui\ma
+git add js\ui\map.js 
+git commit -m "modify maker.js for local coord"
+git commit -m "modify for local coord"
+git status
+git commit -m "modify mapbox-gl.js for local coord"
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js && tap --no-coverage test/build/dev.test.js
+git add -!
+git commit -m "add: add comment TODO into transform.js in which codes are supposed to modify for local coord"
+npm install -g browserify
+git reset --hard 61e97937c53e51
+npm -v
+npm run-script build-dev
+git add -A
+git commit -m "modify lng_lat.js lng_lat_bounds.js transform.js"
+git add js\ui\camera.js 
+git commit -m "modify camera.js for local coord"
+git add js\ui\ma
+git add js\ui\map.js 
+git commit -m "modify maker.js for local coord"
+git commit -m "modify for local coord"
+git commit -m "modify mapbox-gl.js for local coord"
+e:
+cd Git\mapbox-gl-js\
+git commit -m "delete&fix: fix references of transform.js & delete old modules"
+git commit -m "modify image_source.js for local coord"
+git commit -m "modify box_zoom.js for local coord"
+git status
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js && tap --no-coverage test/build/dev.test.js
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js
+git log
+exit
+git status
+git commit -m "modify mapbox-gl.js for local coord"
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js && tap --no-coverage test/build/dev.test.js
+git add -!
+git commit -m "add: add comment TODO into transform.js in which codes are supposed to modify for local coord"
+npm install -g browserify
+git reset --hard 61e97937c53e51
+git add -A
+git commit -m "modify lng_lat.js lng_lat_bounds.js transform.js"
+git add js\ui\camera.js 
+git commit -m "modify camera.js for local coord"
+git add js\ui\ma
+git add js\ui\map.js 
+git commit -m "modify maker.js for local coord"
+git commit -m "modify for local coord"
+git commit -m "modify mapbox-gl.js for local coord"
+cd Git\mapbox-gl-js\
+git commit -m "delete&fix: fix references of transform.js & delete old modules"
+git commit -m "modify image_source.js for local coord"
+git commit -m "modify box_zoom.js for local coord"
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js && tap --no-coverage test/build/dev.test.js
+browserify js/mapbox-gl.js --debug --ignore-transform unassertify --standalone mapboxgl > dist/mapbox-gl-dev.js
+git log
+exit
+e:
+cd Git\gen3DModel\
+npm install
+npm -v
+node -v
+git add package.json 
+git status
+git commit -m "update: add fields for package.json"
+git push
+cd ,,
+cd..
+cd gen3DModel\
+npm run-script generate-all
+cd ..
+cd mapbox-gl-js\
+ls
+npm run-script build-dev
+exit
+ping 104.128.93.206
+npm run-script build-dev
+e:
+cd Git\
+git clone https://github.com/mapbox/mapbox-gl-native.git
+cd mapbox-gl-
+ls
+cd mapbox-gl-js\
+git add -A 
+git status
+git commit -m "modify finished"
+git push
+tcping
+exit
+ipconfig 
+e
+e:
+cd Git\mapbox-gl-native\
+git init
+exit
+exit
+e:
+cd Git\mapbox-gl-native\
+npm install
+yarn
+e:
+cd Git\mapbox-gl-native\
+yarn
+make
+make
+e:
+cd Git\mapbox-gl-native\
+yarn
+bash
+yarn
+make
+e:
+cd Git\mapbox-gl-native\
+yarn
+node -v
+nodist -list
+nodsit
+nodist
+make
+e:
+make
+cmake
+yarn
+make
+e:
+cd Git\mapbox-gl-native\
+node -v
+nodist -list
+nodsit
+nodist
+make
+cmake
+e:
+cd Git\
+cd pysungent\
+cd mapbox-gl-native\
+make
+nmake
+mingw32-make
+yarn
+sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
+ls
+conda list
+conda -v
+conda -V
+conda env list
+conda datapy list
+activate datapy
+list
+pip list
+cd..
+exit
+e>
+e:
+cd Git\mapbox-gl-native\
+yarn
+yarn
+git config --global https.proxy http://127.0.0.1:1080
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+make
+nmake
+mingw32-make
+yarn
+sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
+ls
+conda list
+conda -v
+conda -V
+conda env list
+conda datapy list
+activate datapy
+list
+pip list
+cd..
+exit
+e>
+cd Git\mapbox-gl-native\
+yarn
+e:
+cd Git\mapbox-gl-js\
+git add data.zip
+git commit -m "remove: data.zip"
+git rm .idea\workspace.xml 
+git rm --cached .idea\workspace.xml 
+git commit -m "remove:workspace.xml"
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch data.zip" --prune-empty --tag-name-filter cat  HEAD -- --all
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch data.zip" HEAD -- --all
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch data.zip'   --prune-empty --tag-name-filter cat HEAD -- --all
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch "data.zip" ' --prune-empty --tag-name-filter cat -- --all
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch data.zip' --prune-empty --tag-name-filter cat -- --all
+git status
+git remote -v
+git push origin LocalCoord --force
+rm -rf .git/refs/original/
+git reflog expire --expire=now --all
+git gc --prune=now
+git gc --aggressive --prune=now
+git log
+git push
+git gc --aggressive --prune=now
+git log
+git push
+e:
+cd Git\
+cd mapbox-gl-js\
+ls
+yarn
+browserify js/mapbox-gl.js --debug --plugin [minifyify --map mapbox-gl.js.map --output dist/mapbox-gl.js.map] --standalone mapboxgl > dist/mapbox-gl.js && tap --no-coverage test/build/min.test.js
+yarn 
+ls
+yarn 
+e:
+cd Git\mapbox-gl-js\
+yarn
+browserify js/mapbox-gl.js --debug --plugin [minifyify --map mapbox-gl.js.map --output dist/mapbox-gl.js.map] --standalone mapboxgl > dist/mapbox-gl.js && tap --no-coverage test/build/min.test.js
+npm run build-min
+eixt
+exit
+exit
+"C:\Program Files (x86)\Google\Chrome\Application" cdcdcd
+\
+cd "C:\Program Files (x86)\Google\Chrome\Application\"
+mklink -H "C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe" "C:\Program Files (x86)\Google\Chrome\Application\ChromeGPU.exe"
+cd "C:\Program Files (x86)\Google\Chrome\Application" 
+ls
+mklink /H chromeGPU.exe chrome.exe
+npm run build-min
+eixt
+exit
+exit
+"C:\Program Files (x86)\Google\Chrome\Application" cdcdcd
+\
+cd "C:\Program Files (x86)\Google\Chrome\Application\"
+mklink -H "C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe" "C:\Program Files (x86)\Google\Chrome\Application\ChromeGPU.exe"
+cd "C:\Program Files (x86)\Google\Chrome\Application" 
+mklink /H chromeGPU.exe chrome.exe
+conda create -n pyWebCrawler python=3*
+conda install -n pyWebCrawler selenium
+activate pyWebScrawler
+activate pyWebCrawler
+pip install selenium
+pip install Pillow
+pip install Requests
+pip install requests
+pip install PIL
+ce Desktop\crack_gs-master
+dir
+cd ..
+cd jiang
+cd..
+cd jiangrq
+cd Desktop\crack_gs-master\
+cd crack_gs-master\
+ls
+pip install -r requirements.txt 
+pip install -r requirements.txt 
+conda list
+conda remove -n pyWebCrawler --all
+conda env list
+conda -n datapy install yarpf
+conda -n datapy install yapf
+conda intall -n datapy yapf
+conda install -n datapy yapf
+activate datapy
+pip isntall yapf
+pip install yapf
+pip install flake8
+conda intall -n datapy yapf
+conda install -n datapy yapf
+pip isntall yapf
+pip install yapf
+pip install flake8
+activate datapy
+conda list
+conda env list
+python 
+pip install matplotlib
+pip install sklearn
+exit
+ipython notebook
+exit
+pip install sklearn
+exit
+conda env list
+conda -n datapy install sklearn
+conda install -n datapy sklearn
+conda install -n datapy scikit-learn
+conda -n datapy list
+conda list -n datapy
+ipython notebook
+exit
+pip install sklearn
+exit
+conda env list
+conda -n datapy install sklearn
+conda install -n datapy sklearn
+conda install -n datapy scikit-learn
+conda -n datapy list
+conda list -n datapy
+d:
+cd ..
+cd.
+cd Blender
+ls -a
+l
+cd 2.77\
+cd..
+cd 2.77\scripts\addons
+ls
+conda -n datapy list
+conda list -n datapy
+cd.
+cd Blender
+ls -a
+l
+cd 2.77\
+cd 2.77\scripts\addons
+d:
+c..
+cd..
+cd .
+cd ..
+cd CodeLib\Git\
+cd mapbox-gl-js\
+ls
+npm run build-dev
+npm run build-min
+npm run-script build-dev
+npm run-script build-min
+cd .
+cd CodeLib\Git\
+cd mapbox-gl-js\
+npm run build-dev
+npm run-script build-dev
+npm run-script build-min
+d:
+cd ~\
+cd ~
+cd ..
+cd..
+cd CodeLib\Git\mapbox-gl-js\
+ls
+npm run build-min
+npm run build-dev
+npm run build-min
+npm run-script build-dev
+npm run-script build-min
+cd .
+cd CodeLib\Git\
+npm run build-dev
+npm run-script build-dev
+npm run-script build-min
+cd ~\
+cd ~
+cd CodeLib\Git\mapbox-gl-js\
+d:
+cd ..
+cd..
+cd CodeLib\
+cd Git\
+cd mapbox-gl-js\
+ls
+npm run build-min
+git add govern_test.html localraster.html tileconfig.js building3D.html geoneR.html
+git add localcoord.html 
+git commit -m "add local raster and vector tile demo"
+git status
+git add govern_test.html localraster.html tileconfig.js building3D.html geoneR.html
+git add localcoord.html 
+git commit -m "add local raster and vector tile demo"
+d:
+cd \
+cd..
+cd CodeLib\Git\mapbox-gl-js\
+git status
+git add all
+git add -A
+git commit -m "note: transform.js need to be verify for fittng custmized tile scheme"
+git push
+certutil
+certutil -hashfile C:\Users\jiangrq\Desktop\GIS应用部_蒋如乔.png MD5
+ssh
+certutil -hashfile C:\Users\jiangrq\Desktop\GIS应用部_蒋如乔.png MD5
+ssh
+d:
+cd ..
+cd.
+cd..
+cd CodeLib\
+cd WIP\
+git clone https://github.com/liuslin28/liuslin28.git
+cd liuslin28\
+git status
+git add -A
+git commit -m "package finised"
+git push
+bash
+git push
+bash
+bash
+exit
+exit
+d:
+cd~
+cd ~
+cd .
+cd >.
+cd ..
+cd ..\..\..\CodeLib\Git\mapbox-gl-native\
+ls
+git inint 
+git init 
+git add -A
+git status
+git commit -m "first commit "
+cd d:
+d:
+d:
+md5sum
+certutil 
+curl
+curl www.google.com
+export 
+"D:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\CodeLib\Git\mapbox-gl-native
+certutil F:\Downloads\ubuntu-gnome-17.04-desktop-amd64.iso md5
+certutil -?
+certutil -hashfile F:\Downloads\ubuntu-gnome-17.04-desktop-amd64.iso md5
+certutil 
+curl
+curl www.google.com
+export 
+"D:\Program Files\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\CodeLib\Git\mapbox-gl-native
+certutil F:\Downloads\ubuntu-gnome-17.04-desktop-amd64.iso md5
+certutil -?
+certutil -hashfile F:\Downloads\ubuntu-gnome-17.04-desktop-amd64.iso md5
+d:
+cd ..
+cd CodeLib\
+cd Git\
+cd sungent-frontend\
+ls
+git diff
+git log
+git add -A
+git status
+git commit -m "modify: extracting service url into serviceconfig from floorRender.js "
+exit
+d:
+cd ~
+cd .
+cd \
+cd CodeLib\Git\mapbox-gl-js\
+cd ..
+cd sungent-frontend\
+git status
+git push
+cd sungent-frontend\
+ls
+git diff
+git log
+git status
+git commit -m "modify: extracting service url into serviceconfig from floorRender.js "
+exit
+cd ~
+cd .
+cd CodeLib\Git\mapbox-gl-js\
+cd ..
+cd sungent-frontend\
+d:
+cd \
+cd CodeLib\Git\sungent-frontend\
+git commit -m "modify: change 3d format from .obj to .js"
+git commit -m "fixbug: fix blank page on detail balloon when clicking rooms"
+git commit -m "fixbug: applying readboundary being accessible to 'Multipolygon'" 
+git add -A
+git commit -m "fixbug: awkward look like."
+git push
+git status
+git commit -m "fixbug: applying readboundary being accessible to 'Multipolygon'" 
+git commit -m "fixbug: awkward look like."
+git push
+d:
+cd \
+cd CodeLib\WIP\vis_extruding\
+ls 
+git init
+git add -A
+git commit -m "first commit"
+git status
+git commit -m "fixbug: applying readboundary being accessible to 'Multipolygon'" 
+git commit -m "fixbug: awkward look like."
+git push
+cd CodeLib\WIP\vis_extruding\
+ls 
+git init
+git commit -m "first commit"
+d:
+cd \
+cd CodeLib\
+cd Git\
+cd Hexo
+cd ..
+cd WIP\
+cd mb_vis\
+ls
+git add -A
+git status
+git commit -m "modify: visualize house pricing"
+git commit -m "modify: visualize house pricing"
+cd d:
+d:
+cd \
+cd CodeLib\WIP\
+cd mb_vis\
+git status
+git add -A
+git commit -m "add: radius selctor"
+d:
+cd \
+cd CodeLib\WIP\mb_vis\
+git status
+git diff
+git add -A 
+git commit -m "add: add controller for estate layers"
+d:
+cd \
+cd CodeLib\WIP\
+ls
+cd mb_vis\
+git status
+git add -A
+git commit -m "add: heatmap switcher"
+exit
+git commit -m "add: heatmap switcher"
+d:
+的、
+cd \
+cd CodeLib\WIP\mb_vis\
+git remote add origin git@github.com:geoneapp/mb_vis.git
+git push -u origin master
+git status
+git add -A
+git commit -m "modify: change label of layer switcher."
+git push'
+git push
+exit
+git commit -m "modify: change label of layer switcher."
+git push'
+git push
+D
+D:
+cd \
+cd Document\Geone\Project\3dCubeIndex\paper\
+ls
+cd fullpaper\
+git init
+git status
+exit
+D:
+cd Document\Geone\Project\3dCubeIndex\paper\
+ls
+cd fullpaper\
+git init
+exit
+d:
+cd \
+cd Document\
+cd Geone\Project\3dCubeIndex\paper\fullpaper\
+git commit -m "add description about CIC"
+git status
+git add -A
+git commit -m "2.3 geometry encoding finished"
+cd Geone\Project\3dCubeIndex\paper\fullpaper\
+git commit -m "add description about CIC"
+git add -A
+git commit -m "2.3 geometry encoding finished"
+d:
+cd \
+cd Document\
+cd Geone\
+cd Project\
+cd 3dCubeIndex\paper\
+cd fullpaper\
+ls
+git add cubeIndex-full.doc pic/simplification result.vsdx
+ git commit "decoding finished "
+git status
+git commit -m "results finished"
+git add cubeIndex-full.doc
+git commit -m "update: figure2"
+vi
+vi
+gvim
+ls
+code NTUSER.DAT 
+exut
+bash
+bash
+cd Project\
+cd 3dCubeIndex\paper\
+cd fullpaper\
+ls
+git add cubeIndex-full.doc pic/simplification result.vsdx
+ git commit "decoding finished "
+git status
+git commit -m "results finished"
+git add cubeIndex-full.doc
+git commit -m "update: figure2"
+vi
+vi
+gvim
+code NTUSER.DAT 
+exut
+bash
+
+ssh-keygen -t rsa -C "jobryant@163.com"
+cls
+alia
+cd 
+cd \
+gl
+gs
+pwd
+pwd c:\Windows\
+pwd c
+pwd Game\
+cmderr
+e.
+cd config\
+ls
+code user-aliases.cmd 
+alias
+git add cubeIndex-full.doc
+git commit -m "update: figure2"
+vi
+vi
+gvim
+code NTUSER.DAT 
+exut
+bash
+bash
+mklink /D C:\Users\jiangrq\Desktop\gt_cfg.config d:\Personal\software_config\test\test.config
+mklink C:\Users\jiangrq\Desktop\gt_cfg.config d:\Personal\software_config\test\test.config
+mklink C:\Users\jiangrq\Desktop\gt_cfg.config d:\Personal\software_config\test.config
+mklink /D C:\Users\jiangrq\Desktop\gt_cfg.config d:\Personal\software_config\test.config
+mklink d:gt_cfg.config d:\Personal\software_config\test.config
+vi d:\Personal\software_config\test.config
+mklink /D d:gt_cfg.config d:\Personal\software_config\test.config
+mklink /d D:\gt_cfg.config D:\Personal\software_config\cfg.config
+mklink /h D:\gt_cfg.config D:\Personal\software_config\cfg.config
+mklink /d D:\gt_cfg.json D:\Personal\software_config\cfg.json
+mklink /j D:\gt_cfg.json D:\Personal\software_config\cfg.json
+mklink /h D:\gt_cfg.json D:\Personal\software_config\cfg.json
+d:
+cd \
+ls
+mklink /d gt_cfg.json jj.json
+mklink /j gt_cfg.json jj.json
+mklink /d d:
+mklink /d d:\cf d:\df
+exit
+exit
+d:
+cd \
+mklink /d gk.json gt_cfg.json 
+mklink /d gt_cfg.json jj.json
+mklink /j gt_cfg.json jj.json
+mklink /d d:
+mklink /d d:\cf d:\df
+exit
+exit
+mklink /d gk.json gt_cfg.json 
+d:
+cd \
+cd Personal\software_config\
+git init
+ga -A
+ga 
+ga test.json 
+git add -A
+git commit -m "first"
+git status
+git diff
+gs
+exit
+exit
+d:
+cd \
+mklink /j gt.json gt_cfg.json 
+mklink /h gt.json gt_cfg.json 
+mklink gt.json gt_cfg.json 
+mklink d:\Personal\software_config\test.json cfg.json 
+mklink d:\Personal\software_config\test.json d:\cfg.json 
+d: 
+alias
+cmderr
+e.
+cd config\
+code user-aliases.cmd 
+exit
+exit
+d;
+d:
+ cd \
+cd Personal\Configs_bak\
+git init
+ga -A
+gs
+mklink /h cmder_mini D:\DevelopTools\cmder_mini\config
+d:
+cd 
+cd \
+cd Personal\Configs_bak\
+mklink /h cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /h d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /j d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+gs
+ga -A
+gc
+gc -m "add: cmder_mini"
+mklink /h d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /j d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+gc
+d:
+cd d:\Personal\Configs_bak\
+git status
+ga
+gl
+gc -m "add: cmder_mini"
+git commit -m "add: cmder_mini"
+gs
+ga -A
+git diff
+mklink /h cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /h d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /j d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+gs
+ga -A
+gc
+gc -m "add: cmder_mini"
+mklink /h d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+mklink /j d:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+gc
+ga
+gl
+gc -m "add: cmder_mini"
+git diff
+d:
+ls
+git init 
+mklink /j D:\Personal\Configs_bak\cmder_mini D:\DevelopTools\cmder_mini\config
+git commit -m "add: cmder_mini"
+git status
+cmderr
+e.
+cd d:
+cd d:\Personal\Configs_bak\
+ga VSCode*
+git commit -m "add: vscode"
+git log
+git init
+mklink /j D:\Personal\Configs_bak\VSCode C:\Users\jiangrq\AppData\Roaming\Code
+ga -A
+gs
+gc -m "add: VSCode"
+git log
+git init
+mklink /j D:\Personal\Configs_bak\VSCode C:\Users\jiangrq\AppData\Roaming\Code
+ga -A
+gs
+gc -m "add: VSCode"
+cd Desktop\
+vi 
+ls -a
+ls
+ls *.txt
+vi ww.txt
+vi GeometryExporter.js 
+vimtutor
+bash
+bash
+d
+d:
+cd \
+ls
+vi
+vi ww.txt
+CL
+cL
+c:
+cd Desktop\
