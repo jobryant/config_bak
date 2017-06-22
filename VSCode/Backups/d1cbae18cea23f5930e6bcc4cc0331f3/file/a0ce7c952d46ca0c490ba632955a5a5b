@@ -1,0 +1,6 @@
+file:///c%3A/Users/jiangrq/Desktop/test/ww.txt
+//GET http://www.cnblogs.com/savokiss/p/6474955.html
+
+GET http://58.210.9.134:8077/pysungent/zcglserver/getProp/JW16 HTTP/1.1
+
+   Three.js is a good library for javascript of working with openglES.

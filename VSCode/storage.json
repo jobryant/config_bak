@@ -1,0 +1,557 @@
+{
+    "lastKnownKeybindings": {
+        "workbench.action.files.newUntitledFile": {
+            "id": "workbench.action.files.newUntitledFile",
+            "label": "Ctrl+N",
+            "isNative": true
+        },
+        "workbench.action.files.openFolder": {
+            "id": "workbench.action.files.openFolder",
+            "label": "Ctrl+K Ctrl+O",
+            "isNative": false
+        },
+        "workbench.action.reopenClosedEditor": {
+            "id": "workbench.action.reopenClosedEditor",
+            "label": "Ctrl+Shift+T",
+            "isNative": true
+        },
+        "workbench.action.files.save": {
+            "id": "workbench.action.files.save",
+            "label": "Ctrl+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAs": {
+            "id": "workbench.action.files.saveAs",
+            "label": "Ctrl+Shift+S",
+            "isNative": true
+        },
+        "workbench.action.files.saveAll": {
+            "id": "workbench.action.files.saveAll",
+            "label": "Ctrl+K S",
+            "isNative": false
+        },
+        "workbench.action.openGlobalSettings": {
+            "id": "workbench.action.openGlobalSettings",
+            "label": "Ctrl+,",
+            "isNative": true
+        },
+        "workbench.action.openGlobalKeybindings": {
+            "id": "workbench.action.openGlobalKeybindings",
+            "label": "Ctrl+K Ctrl+S",
+            "isNative": false
+        },
+        "workbench.extensions.action.showRecommendedKeymapExtensions": {
+            "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
+            "label": "Ctrl+K Ctrl+M",
+            "isNative": false
+        },
+        "workbench.action.selectTheme": {
+            "id": "workbench.action.selectTheme",
+            "label": "Ctrl+K Ctrl+T",
+            "isNative": false
+        },
+        "workbench.action.newWindow": {
+            "id": "workbench.action.newWindow",
+            "label": "Ctrl+Shift+N",
+            "isNative": true
+        },
+        "workbench.action.closeWindow": {
+            "id": "workbench.action.closeWindow",
+            "label": "Ctrl+W",
+            "isNative": true
+        },
+        "workbench.action.closeFolder": {
+            "id": "workbench.action.closeFolder",
+            "label": "Ctrl+K F",
+            "isNative": false
+        },
+        "workbench.action.closeActiveEditor": {
+            "id": "workbench.action.closeActiveEditor",
+            "label": "Ctrl+F4",
+            "isNative": true
+        },
+        "undo": {
+            "id": "undo",
+            "label": "Ctrl+Z",
+            "isNative": true
+        },
+        "redo": {
+            "id": "redo",
+            "label": "Ctrl+Y",
+            "isNative": true
+        },
+        "editor.action.clipboardCutAction": {
+            "id": "editor.action.clipboardCutAction",
+            "label": "Ctrl+X",
+            "isNative": true
+        },
+        "editor.action.clipboardCopyAction": {
+            "id": "editor.action.clipboardCopyAction",
+            "label": "Ctrl+C",
+            "isNative": true
+        },
+        "editor.action.clipboardPasteAction": {
+            "id": "editor.action.clipboardPasteAction",
+            "label": "Ctrl+V",
+            "isNative": true
+        },
+        "actions.find": {
+            "id": "actions.find",
+            "label": "Ctrl+F",
+            "isNative": true
+        },
+        "editor.action.startFindReplaceAction": {
+            "id": "editor.action.startFindReplaceAction",
+            "label": "Ctrl+H",
+            "isNative": true
+        },
+        "workbench.action.findInFiles": {
+            "id": "workbench.action.findInFiles",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.action.replaceInFiles": {
+            "id": "workbench.action.replaceInFiles",
+            "label": "Ctrl+Shift+H",
+            "isNative": true
+        },
+        "editor.emmet.action.expandAbbreviation": {
+            "id": "editor.emmet.action.expandAbbreviation",
+            "label": "Tab",
+            "isNative": true
+        },
+        "editor.action.commentLine": {
+            "id": "editor.action.commentLine",
+            "label": "Ctrl+/",
+            "isNative": true
+        },
+        "editor.action.blockComment": {
+            "id": "editor.action.blockComment",
+            "label": "Shift+Alt+A",
+            "isNative": true
+        },
+        "editor.action.insertCursorAbove": {
+            "id": "editor.action.insertCursorAbove",
+            "label": "Ctrl+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.insertCursorBelow": {
+            "id": "editor.action.insertCursorBelow",
+            "label": "Ctrl+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.insertCursorAtEndOfEachLineSelected": {
+            "id": "editor.action.insertCursorAtEndOfEachLineSelected",
+            "label": "Shift+Alt+I",
+            "isNative": true
+        },
+        "editor.action.addSelectionToNextFindMatch": {
+            "id": "editor.action.addSelectionToNextFindMatch",
+            "label": "Ctrl+D",
+            "isNative": true
+        },
+        "editor.action.selectHighlights": {
+            "id": "editor.action.selectHighlights",
+            "label": "Ctrl+Shift+L",
+            "isNative": true
+        },
+        "editor.action.copyLinesUpAction": {
+            "id": "editor.action.copyLinesUpAction",
+            "label": "Shift+Alt+Up",
+            "isNative": true
+        },
+        "editor.action.copyLinesDownAction": {
+            "id": "editor.action.copyLinesDownAction",
+            "label": "Shift+Alt+Down",
+            "isNative": true
+        },
+        "editor.action.moveLinesUpAction": {
+            "id": "editor.action.moveLinesUpAction",
+            "label": "Alt+Up",
+            "isNative": true
+        },
+        "editor.action.moveLinesDownAction": {
+            "id": "editor.action.moveLinesDownAction",
+            "label": "Alt+Down",
+            "isNative": true
+        },
+        "editor.action.selectAll": {
+            "id": "editor.action.selectAll",
+            "label": "Ctrl+A",
+            "isNative": true
+        },
+        "editor.action.smartSelect.grow": {
+            "id": "editor.action.smartSelect.grow",
+            "label": "Shift+Alt+Right",
+            "isNative": true
+        },
+        "editor.action.smartSelect.shrink": {
+            "id": "editor.action.smartSelect.shrink",
+            "label": "Shift+Alt+Left",
+            "isNative": true
+        },
+        "workbench.view.explorer": {
+            "id": "workbench.view.explorer",
+            "label": "Ctrl+Shift+E",
+            "isNative": true
+        },
+        "workbench.view.search": {
+            "id": "workbench.view.search",
+            "label": "Ctrl+Shift+F",
+            "isNative": true
+        },
+        "workbench.view.scm": {
+            "id": "workbench.view.scm",
+            "label": "Ctrl+Shift+G",
+            "isNative": true
+        },
+        "workbench.view.debug": {
+            "id": "workbench.view.debug",
+            "label": "Ctrl+Shift+D",
+            "isNative": true
+        },
+        "workbench.view.extensions": {
+            "id": "workbench.view.extensions",
+            "label": "Ctrl+Shift+X",
+            "isNative": true
+        },
+        "workbench.action.output.toggleOutput": {
+            "id": "workbench.action.output.toggleOutput",
+            "label": "Ctrl+Shift+U",
+            "isNative": true
+        },
+        "workbench.debug.action.toggleRepl": {
+            "id": "workbench.debug.action.toggleRepl",
+            "label": "Ctrl+Shift+Y",
+            "isNative": true
+        },
+        "workbench.action.terminal.toggleTerminal": {
+            "id": "workbench.action.terminal.toggleTerminal",
+            "label": "Ctrl+`",
+            "isNative": true
+        },
+        "workbench.actions.view.problems": {
+            "id": "workbench.actions.view.problems",
+            "label": "Ctrl+Shift+M",
+            "isNative": true
+        },
+        "workbench.action.showCommands": {
+            "id": "workbench.action.showCommands",
+            "label": "Ctrl+Shift+P",
+            "isNative": true
+        },
+        "workbench.action.toggleFullScreen": {
+            "id": "workbench.action.toggleFullScreen",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.toggleZenMode": {
+            "id": "workbench.action.toggleZenMode",
+            "label": "Ctrl+K Z",
+            "isNative": false
+        },
+        "workbench.action.splitEditor": {
+            "id": "workbench.action.splitEditor",
+            "label": "Ctrl+\\",
+            "isNative": true
+        },
+        "workbench.action.toggleEditorGroupLayout": {
+            "id": "workbench.action.toggleEditorGroupLayout",
+            "label": "Shift+Alt+1",
+            "isNative": true
+        },
+        "workbench.action.toggleSidebarVisibility": {
+            "id": "workbench.action.toggleSidebarVisibility",
+            "label": "Ctrl+B",
+            "isNative": true
+        },
+        "workbench.action.togglePanel": {
+            "id": "workbench.action.togglePanel",
+            "label": "Ctrl+J",
+            "isNative": true
+        },
+        "editor.action.toggleWordWrap": {
+            "id": "editor.action.toggleWordWrap",
+            "label": "Alt+Z",
+            "isNative": true
+        },
+        "workbench.action.zoomIn": {
+            "id": "workbench.action.zoomIn",
+            "label": "Ctrl+=",
+            "isNative": true
+        },
+        "workbench.action.zoomOut": {
+            "id": "workbench.action.zoomOut",
+            "label": "Ctrl+-",
+            "isNative": true
+        },
+        "workbench.action.zoomReset": {
+            "id": "workbench.action.zoomReset",
+            "label": "Ctrl+NumPad0",
+            "isNative": false
+        },
+        "workbench.action.navigateBack": {
+            "id": "workbench.action.navigateBack",
+            "label": "Alt+Left",
+            "isNative": true
+        },
+        "workbench.action.navigateForward": {
+            "id": "workbench.action.navigateForward",
+            "label": "Alt+Right",
+            "isNative": true
+        },
+        "workbench.action.nextEditor": {
+            "id": "workbench.action.nextEditor",
+            "label": "Ctrl+PageDown",
+            "isNative": true
+        },
+        "workbench.action.previousEditor": {
+            "id": "workbench.action.previousEditor",
+            "label": "Ctrl+PageUp",
+            "isNative": true
+        },
+        "workbench.action.openNextRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openNextRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Tab",
+            "isNative": true
+        },
+        "workbench.action.openPreviousRecentlyUsedEditorInGroup": {
+            "id": "workbench.action.openPreviousRecentlyUsedEditorInGroup",
+            "label": "Ctrl+Shift+Tab",
+            "isNative": true
+        },
+        "workbench.action.focusFirstEditorGroup": {
+            "id": "workbench.action.focusFirstEditorGroup",
+            "label": "Ctrl+1",
+            "isNative": true
+        },
+        "workbench.action.focusSecondEditorGroup": {
+            "id": "workbench.action.focusSecondEditorGroup",
+            "label": "Ctrl+2",
+            "isNative": true
+        },
+        "workbench.action.focusThirdEditorGroup": {
+            "id": "workbench.action.focusThirdEditorGroup",
+            "label": "Ctrl+3",
+            "isNative": true
+        },
+        "workbench.action.focusNextGroup": {
+            "id": "workbench.action.focusNextGroup",
+            "label": "Ctrl+K Ctrl+RightArrow",
+            "isNative": false
+        },
+        "workbench.action.focusPreviousGroup": {
+            "id": "workbench.action.focusPreviousGroup",
+            "label": "Ctrl+K Ctrl+LeftArrow",
+            "isNative": false
+        },
+        "workbench.action.quickOpen": {
+            "id": "workbench.action.quickOpen",
+            "label": "Ctrl+P",
+            "isNative": true
+        },
+        "workbench.action.gotoSymbol": {
+            "id": "workbench.action.gotoSymbol",
+            "label": "Ctrl+Shift+O",
+            "isNative": true
+        },
+        "workbench.action.showAllSymbols": {
+            "id": "workbench.action.showAllSymbols",
+            "label": "Ctrl+T",
+            "isNative": true
+        },
+        "editor.action.goToDeclaration": {
+            "id": "editor.action.goToDeclaration",
+            "label": "F12",
+            "isNative": true
+        },
+        "editor.action.goToImplementation": {
+            "id": "editor.action.goToImplementation",
+            "label": "Ctrl+F12",
+            "isNative": true
+        },
+        "workbench.action.gotoLine": {
+            "id": "workbench.action.gotoLine",
+            "label": "Ctrl+G",
+            "isNative": true
+        },
+        "workbench.action.debug.start": {
+            "id": "workbench.action.debug.start",
+            "label": "F5",
+            "isNative": true
+        },
+        "workbench.action.debug.run": {
+            "id": "workbench.action.debug.run",
+            "label": "Ctrl+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stop": {
+            "id": "workbench.action.debug.stop",
+            "label": "Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.restart": {
+            "id": "workbench.action.debug.restart",
+            "label": "Ctrl+Shift+F5",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOver": {
+            "id": "workbench.action.debug.stepOver",
+            "label": "F10",
+            "isNative": true
+        },
+        "workbench.action.debug.stepInto": {
+            "id": "workbench.action.debug.stepInto",
+            "label": "F11",
+            "isNative": true
+        },
+        "workbench.action.debug.stepOut": {
+            "id": "workbench.action.debug.stepOut",
+            "label": "Shift+F11",
+            "isNative": true
+        },
+        "workbench.action.debug.continue": {
+            "id": "workbench.action.debug.continue",
+            "label": "F5",
+            "isNative": true
+        },
+        "editor.debug.action.toggleColumnBreakpoint": {
+            "id": "editor.debug.action.toggleColumnBreakpoint",
+            "label": "Shift+F9",
+            "isNative": true
+        }
+    },
+    "theme": "vs-dark gerane-Theme-TomorrowNightEighties-themes-Tomorrow_Night_Eighties-tmTheme",
+    "openedPathsList": {
+        "files": [
+            "C:\\Users\\jiangrq\\AppData\\Roaming\\Code\\storage.json",
+            "C:\\Users\\jiangrq\\AppData\\Roaming\\Code\\User\\settings.json",
+            "C:\\Users\\jiangrq\\AppData\\Roaming\\Code\\User\\material-icon-theme.json",
+            "d:\\messages.xml",
+            "D:\\cfg.json",
+            "c:\\Users\\jiangrq\\Desktop\\ww.txt",
+            "c:\\Windows\\System32\\drivers\\etc\\hosts",
+            "d:\\Document\\Geone\\Project\\3dCubeIndex\\SourceCode\\cubeIndex\\src\\js\\lib\\generateFloors.js",
+            "d:\\DevelopTools\\cmder_mini\\config\\user-aliases.cmd",
+            "d:\\DevelopTools\\cmder_mini\\config\\user-profile.cmd",
+            "C:\\Users\\jiangrq\\AppData\\Roaming\\Code\\User\\snippets\\python.json",
+            "d:\\Personal\\Configs_bak\\cmder_mini\\user-aliases.cmd",
+            "d:\\Personal\\software_config\\test.json",
+            "d:\\gt.json",
+            "d:\\gt_cfg.json",
+            "d:\\gt_cfg.config",
+            "d:\\Personal\\software_config\\gt_cfg.config",
+            "D:\\Personal\\software_config\\messages.xml",
+            "c:\\Users\\jiangrq\\Desktop\\gt_cfg.config",
+            "c:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\node_modules\\table\\node_modules\\lodash\\isMap.js",
+            "d:\\DevelopTools\\Nodist\\node_modules\\lodash\\fp\\subtract.js",
+            "d:\\CodeLib\\TestProject\\23Dmap\\mapbox-gl-style-editor-master\\node_modules\\.3.5.14@mapnik\\node_modules\\.2.79.0@request\\lib\\querystring.js",
+            "c:\\Users\\jiangrq\\Desktop\\mountain_detail.js",
+            "c:\\Users\\jiangrq\\Desktop\\英文论文写作常用句型.txt",
+            "C:\\Users\\jiangrq\\NTUSER.DAT",
+            "C:\\Users\\jiangrq\\Desktop\\untitled.json",
+            "c:\\Users\\jiangrq\\AppData\\Local\\Yarn\\cache\\npm-node-pre-gyp-0.5.22-36d1d3192d82a2a9cc3181365be8a4c1132e096c\\node_modules\\tar-pack\\node_modules\\fstream-ignore\\test\\.ignore",
+            "d:\\Document\\Geone\\Project\\3dCubeIndex\\paper\\fullpaper\\.ignore",
+            "C:\\Users\\jiangrq\\Desktop\\geom.json",
+            "C:\\Users\\jiangrq\\Desktop\\bunny2.json",
+            "d:\\CodeLib\\WIP\\threeViewer\\js\\threeViewer.js",
+            "d:\\CodeLib\\WIP\\threeViewer\\assets\\data\\vocano.js",
+            "c:\\Users\\jiangrq\\Desktop\\交易指标.sql",
+            "d:\\CodeLib\\WIP\\threeViewer\\assets\\data\\temple.js",
+            "c:\\Users\\jiangrq\\Desktop\\SIPGYDK_dbo_S01.csv",
+            "c:\\Users\\jiangrq\\Desktop\\SIPGYDK_dbo_S02.csv",
+            "c:\\Users\\jiangrq\\Desktop\\pop\\Population density inspector.html",
+            "c:\\Users\\jiangrq\\Desktop\\index.html",
+            "c:\\Users\\jiangrq\\Desktop\\floorRender.js",
+            "c:\\Users\\jiangrq\\Desktop\\serviceConfigPy.js",
+            "d:\\Dataset\\vector_tile_test\\vt_scheme.xml",
+            "C:\\Users\\jiangrq\\Desktop\\scheme.xml",
+            "d:\\CodeLib\\Git\\mapbox-gl-js\\data\\vector_tile\\tileconfig.js",
+            "c:\\Users\\jiangrq\\Desktop\\Streets(ciwq2u4ey00952ppvwdvqyav7)\\style.json",
+            "c:\\Users\\jiangrq\\Desktop\\phone.html",
+            "c:\\Users\\jiangrq\\Desktop\\tileconfig.js",
+            "c:\\Users\\jiangrq\\Desktop\\building3D.html",
+            "d:\\Dataset\\vector_tile_test\\phone\\phone\\p12\\resources\\styles\\root.json",
+            "c:\\Users\\jiangrq\\Desktop\\govern_test.html",
+            "d:\\CodeLib\\Git\\mapbox-gl-js\\data\\vector_tile\\govern\\p12\\root.json",
+            "D:\\CodeLib\\Git\\mapbox-gl-js\\data\\vector_tile\\localcoord\\p12\\root.json",
+            "E:\\software\\Programing\\font setting.json",
+            "d:\\DevelopTools\\three.js-master\\three.js-master\\utils\\exporters\\blender\\addons\\io_three\\__init__.py",
+            "d:\\DevelopTools\\Blender\\2.77\\scripts\\addons\\io_mesh_json\\__init__.py",
+            "d:\\DevelopTools\\Blender\\2.77\\scripts\\addons\\io_three\\__init__.py",
+            "C:\\Users\\jiangrq\\Documents\\untitled.json",
+            "C:\\Users\\jiangrq\\Desktop\\test\\test.py",
+            "C:\\Users\\jiangrq\\Desktop\\testc\\.vscode\\launch.json",
+            "c:\\Users\\jiangrq\\.yarnrc",
+            "c:\\Users\\jiangrq\\AppData\\Roaming\\Typora\\themes\\github.css",
+            "c:\\Users\\jiangrq\\AppData\\Roaming\\Typora\\conf\\conf.user.json",
+            "C:\\Users\\jiangrq\\AppData\\Roaming\\Typora\\conf\\conf.default.json",
+            "e:\\Git\\mapbox-gl-js\\.gitignore",
+            "E:\\Git\\gen3DModel\\package.json",
+            "c:\\Users\\jiangrq\\Desktop\\Map1.html",
+            "c:\\Users\\jiangrq\\Desktop\\mapbox-unity-sdk_v0.4-beta.unitypackage",
+            "e:\\JSON\\BDC1\\floors\\BDC1-00002374-D33CF7DD-003-C3BDAB19.js",
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Web\\External\\node_modules\\tar-stream\\node_modules\\util-deprecate\\package.json",
+            "e:\\Git\\mapbox-gl-js\\data\\vector_tile\\localcoord\\p12\\resources\\fonts\\SimSun Regular\\24064-24319.pbf",
+            "d:\\Document\\Geone\\Project\\Estate3D\\runScp.sh",
+            "c:\\Users\\jiangrq\\.ssh\\github_rsa.pub",
+            "c:\\Users\\jiangrq\\.ssh\\github_rsa",
+            "e:\\XQJSON\\XQ00001.js",
+            "E:\\Git\\mapbox-gl-js\\data\\vector_tile\\localcoord\\p12\\resources\\styles\\root.json",
+            "E:\\Git\\mapbox-gl-js\\data\\geoneVT\\p12\\resources\\styles\\root.json",
+            "E:\\Git\\mapbox-gl-js\\data\\geoneVT\\esriinfo\\iteminfo.xml",
+            "E:\\MyDEMO\\cubeIndex\\src\\assets\\JW01\\walls\\input\\JW01-00004207-34891CED-019-72B1DDBD.js",
+            "e:\\MyDEMO\\cubeIndex\\src\\assets\\JW01\\walls\\input\\JW01-00003287-95C852AA-0B2-678C6BDD.js",
+            "e:\\JSON\\YR11\\floors\\YR11-00006482-20714943-006-DABD3A11.obj",
+            "e:\\JSON\\JW01.old\\walls\\JW01-00003287-95C852AA-0B2-678C6BDD.obj",
+            "e:\\JSON\\JW01\\walls\\JW01-00004200-E9B193B0-012-2F66223C.js",
+            "c:\\Users\\jiangrq\\Desktop\\JW01\\JW01_W_A4C0963C-B646-4F13-994E-CCA86F16D043.obj",
+            "f:\\vector_tile_test\\suzhou\\vtpk\\mbtiles\\mecator\\p12\\tile\\1\\1\\1.pbf",
+            "f:\\vector_tile_test\\suzhou\\vtpk\\mbtiles\\mecator\\p12\\resources\\styles\\root.json",
+            "f:\\vector_tile_test\\suzhou\\vtpk\\mbtiles\\mecator\\p12\\resources\\info\\root.json",
+            "F:\\vector_tile_test\\suzhou\\vtpk\\mbtiles\\mecator\\p12\\root.json",
+            "F:\\vector tile test\\dd\\p12\\root.json",
+            "F:\\vector tile test\\shp\\building.shp.xml",
+            "F:\\vector tile test\\vector\\p12\\root.json",
+            "c:\\Users\\jiangrq\\Desktop\\如何在一个月左右迅速提高口语（雅思口语）水平？ - 知乎.html",
+            "C:\\Users\\jiangrq\\Desktop\\VTTS_0_Suzhou_1954_3_Degree_GK_CM_120E.xml",
+            "C:\\Users\\jiangrq\\Desktop\\Data.json",
+            "C:\\Users\\jiangrq\\Desktop\\Settings.json",
+            "e:\\Git\\gen3DModel\\app\\config.js",
+            "f:\\vector tile test\\subwayvtpk\\p12\\root.json",
+            "F:\\vector tile test\\vtpk2\\p12\\root.json",
+            "C:\\Users\\jiangrq\\AppData\\Local\\ESRI\\Geoprocessing\\VTTS_0_Suzhou_1954_3_Degree_GK_CM_120E.xml",
+            "C:\\Users\\jiangrq\\Desktop\\VTTS_3857_WGS_1984_Web_Mercator_Auxiliary_Sphere.xml",
+            "F:\\vector tile test\\localcoord\\localVectorTile\\local\\p12\\root.json",
+            "F:\\vector tile test\\localcoord\\localcoord\\p12\\root.json"
+        ],
+        "folders": [
+            "C:\\Users\\jiangrq\\Desktop\\test",
+            "D:\\",
+            "D:\\CodeLib\\Git\\gen3DModel",
+            "D:\\CodeLib\\WIP\\machine_learning",
+            "C:\\Users\\jiangrq\\Desktop\\前端代码",
+            "D:\\CodeLib\\WIP\\python_test",
+            "E:\\MyDEMO\\MyPython\\machinelearning",
+            "C:\\Users\\jiangrq\\Desktop\\testc",
+            "E:\\Git\\mapbox-gl-native"
+        ]
+    },
+    "windowsState": {
+        "openedFolders": [],
+        "lastActiveWindow": {
+            "workspacePath": "C:\\Users\\jiangrq\\Desktop\\test",
+            "uiState": {
+                "mode": 0,
+                "x": -8,
+                "y": -8,
+                "width": 1936,
+                "height": 1056
+            }
+        }
+    },
+    "telemetry.machineId": "933fb6537959a50ca20da00a03dbef67a19dbead10d86f86644eea88f9e0e465",
+    "pickerWorkingDir": "C:\\Users\\jiangrq\\Desktop",
+    "quit.from.update": true,
+    "themeBackground": "#2d2d2d"
+}

@@ -1,0 +1,22 @@
+// 将设置放入此文件中以覆盖默认设置
+{
+    "editor.fontFamily": "Consolas, 'Courier New', monospace,'PingFang SC'",
+    "files.associations": {
+        "*.xml": "xml",
+        "*.js": "javascript"
+    },
+    "[cpp]": {
+        "editor.quickSuggestions": false
+    },
+    "[c]": {
+        "editor.quickSuggestions": false
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tomorrow_Night_Eighties",
+    // python 环境
+    "python.pythonPath": "C:\\Anaconda3\\envs\\datapy",
+    "python.formatting.provider": "yapf",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "vim.enableNeovim": false
+}
